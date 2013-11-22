@@ -1,3 +1,18 @@
+SIMproject
+==========
+
+Introduction
+------------
+This is a project was started on November 22nd, 2013, and is intended for demonstration and testing processes only to see how well I can work with the Zend 2 Framework as well as the Git version control system via Github.
+
+It should be noted that prior to creating this project, the following are true about me:
+- No experience or knowledge of Git.
+- No experience or knowledge of any type of MVC architecture.
+- No experience with OOP in PHP.
+
+
+
+
 ZendSkeletonApplication
 =======================
 
