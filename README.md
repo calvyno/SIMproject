@@ -10,6 +10,8 @@ It should be noted that prior to creating this project, the following are true a
 - No experience or knowledge of any type of MVC architecture.
 - No experience with OOP in PHP.
 
+Prior to actually creating a fully working project, I have to learn from tutorials and books, and I needed a workspace to test code.  If you see a lack of activity/updates on this repository, then it is likely I am working in my preSIMproject repository located here: https://github.com/calvyno/preSIMproject
+
 
 
 
